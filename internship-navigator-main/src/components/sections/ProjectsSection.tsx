@@ -15,7 +15,7 @@ const projects = [
       "LLM APIs",
       "Embeddings",
     ],
-    githubUrl: "https://github.com/arjunkotwal-del/internship-intelligence-platform",
+    githubUrl: "https://github.com/arjunkotwal-del/internship-intelligence",
     featured: true,
   },
 
