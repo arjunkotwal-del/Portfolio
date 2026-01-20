@@ -31,7 +31,7 @@ const projects = [
       "Tailwind CSS",
     ],
     githubUrl: "https://github.com/arjunkotwal-del/cinewave",
-    liveUrl: "https://cinewave-96x3.vercel.app",
+    liveUrl: "https://cinewave-ogna7b4wu-arjun-kotwals-projects-bedbf5fa.vercel.app",
     featured: true,
   },
 
